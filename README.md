@@ -1,4 +1,4 @@
-# Parllelization of N-Queen in Three Dimension
+# Parallelized appproach to the N-Queen problem in Three Dimension
 ## Introduction
 In this project, we use OpenMP and OpenMPI to speed up the [double backtracking alogrithm](https://www.researchgate.net/publication/318479872_A_Novel_Double_Backtracking_Approach_to_the_N-Queens_Problem_in_Three_Dimensions) for solving N-Queen problem in three dimension.
 
